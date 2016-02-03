@@ -18,3 +18,5 @@ zzz
 22
 
 55
+
+close issue auto
